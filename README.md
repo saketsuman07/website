@@ -1,2 +1,2 @@
-# website menu using css Html
-replace the image used in website with your own image
+# A simple website using html and css 
+You can replace the image used in website with your own image.
